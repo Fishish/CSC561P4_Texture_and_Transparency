@@ -7,8 +7,5 @@ You can manipulate the 3d environment to perform a series of transformations. To
 
 If a different JSON file needs to be used, the global variable INPUT_TRIANGLES_URL should be changed. The new link should make sure it matches the format specified in the current link for this variable to ensure triangles are rendered correctly.
 
-## Acknowledge
-For the printed masterclock, since there is no specific instruction, I am using the added-up masterclock value of 30 times.
-
 ## Author
 Connor Smith, Jiacheng Yang
